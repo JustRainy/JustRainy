@@ -3,7 +3,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,cpp,java,python)](https://skillicons.dev)
 
 ## 🎲 My projects
-[![minecraft-launch-p](https://github-readme-stats.vercel.app/api/pin/?username=Blessing-Studio&repo=minecraft-launch-p&theme=tokyonight)](https://github.com/Blessing-Studio/MinecraftLaunch)
+[![minecraft-launch-p](https://github-readme-stats.vercel.app/api/pin/?username=Blessing-Studio&repo=minecraft-launch-p&theme=tokyonight)](https://github.com/Blessing-Studio/minecraft-launch-p)
 
 ## 👀 About me
 
