@@ -1,4 +1,4 @@
-⚡ Hello! ⚡
+# ⚡ Hello! ⚡
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,cpp,java,python)](https://skillicons.dev)
 
