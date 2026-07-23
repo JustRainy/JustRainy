@@ -3,7 +3,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,cpp,java,python)](https://skillicons.dev)
 
 ## 🎲 My projects
-[![minecraft-launch-p](https://github-readme-stats.vercel.app/api/pin/?username=Blessing-Studio&repo=minecraft-launch-p&theme=tokyonight)](https://github.com/Blessing-Studio/minecraft-launch-p)
+[![minecraft-launch-p](https://github-readme-stats.vercel.app/api/pin/?username=JustRainy&repo=minecraft-launch-p.override&theme=tokyonight)](https://github.com/JustRainy/minecraft-launch-p.override)
 [![rainbow_json](https://github-readme-stats.vercel.app/api/pin/?username=JustRainy&repo=rainbow_json&theme=tokyonight)](https://github.com/JustRainy/rainbow_json)
 
 ## 👀 About me
